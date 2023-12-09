@@ -1,1 +1,2 @@
-# manning_deploy_k8s_in_prod
+# model-and-run-apps-in-kubernetes-lp-author
+Repository for liveProject: Model and Run Apps in Kubernetes
